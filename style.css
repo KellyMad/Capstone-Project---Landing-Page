@@ -1,0 +1,96 @@
+
+body {
+
+  background-color:#000000;
+
+}
+
+.right-container {
+
+  left: -20px;
+}
+
+
+.timeline {
+position: relative;
+max-width: 1200px;
+margin: 100px auto;
+
+}
+
+
+.container {
+
+  padding: 10px 50px;
+  position: relative;
+  width: 50%;
+  background-color: #2f4f4f;
+
+}
+
+.container h3 {
+
+position: absolute;
+width: 40px;
+border-radius: 50%;
+right: -20px;
+top: 32px;
+z-index: 10;
+
+}
+
+
+
+
+.text-box {
+
+padding: 20px 30px;
+position: relative;
+background-color: #f0f8ff;
+font-size: 15px;
+border-radius: 6px;
+}
+
+
+
+.left-container {
+  left: 0;
+
+}
+
+.right-container {
+left: 50%;
+
+}
+
+
+.flagpicture {
+  height: 400px;
+  width: 100%;
+  position: relative;
+  bottom: -100px;
+  margin-bottom: 50ox;
+}
+
+
+.hectorpic {
+
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -500px;
+}
+
+
+
+.protestpic {
+
+  height: 800px;
+  width: 100%;
+  position: absolute;
+  opacity: 0.5;
+  left: 0;
+  bottom: -1450px;
+}
+
